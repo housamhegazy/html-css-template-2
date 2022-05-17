@@ -1028,6 +1028,7 @@ transform: rotate(3deg) scale(1.1);
     }
     .contact .container .info .address{
         order:1;
+        text-align: center;
     }
 }
 .contact .container .info form{
